@@ -1,0 +1,8 @@
+###
+POST http://localhost:3001/api/blacklists
+Content-Type: application/json
+
+{
+    "firstName": "derp",
+    "lastName": "herp"
+}
